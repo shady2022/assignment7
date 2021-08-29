@@ -1,0 +1,3 @@
+english,apple , persion,sib
+english,tree , persion,derakht
+english,i , persian,man 
